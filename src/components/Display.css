@@ -1,0 +1,62 @@
+
+.image{
+    width: 240px;
+}
+
+.search>form>input[type="search"]{
+    text-transform: uppercase;
+    width: 94%;
+	border-radius:25px;
+	font-size: 20px;
+	outline: none;
+	border: 1px solid black;
+	margin:10px 0px;
+	padding:5px 0px 5px 25px;
+	box-sizing: border-box;;
+
+    @import #submit{
+		font-size: 18px;
+		display: block;
+		margin: 0 auto;
+		background-color: white;
+		color:black;
+		outline: none;
+		padding: 10px;
+		border-radius: 30px;
+        border:2px solid black;
+    }
+}
+ 
+
+.search>form>input[type="submit"]{
+	font-size: 18px; 
+	padding: 4px; 
+	border-radius: 30px;
+}
+
+#submit:hover {
+	color:white;
+	background-color: #282828;
+	border:2px solid #282828;
+	cursor:pointer;
+}
+
+.tickers{
+	color: white;
+}
+
+ul:hover{
+	background-color: skyblue;
+	color: orangered;
+}
+
+li {
+	list-style: inherit;
+	margin-left: 55px;
+	font-family: sans-serif;
+	color:white;
+}
+
+li:hover{
+	color: tomato;
+}
