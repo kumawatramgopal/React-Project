@@ -1,4 +1,4 @@
-{ 
+{
   "homepage": "http://kumawatramgopal.github.io/react-project",
   "name": "react-project",
   "version": "0.1.0",
@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
