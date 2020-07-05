@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/who-are-the-dev/static/css/main.1ce69304.chunk.css",
+    "main.js": "/who-are-the-dev/static/js/main.ef2940c6.chunk.js",
+    "main.js.map": "/who-are-the-dev/static/js/main.ef2940c6.chunk.js.map",
+    "runtime-main.js": "/who-are-the-dev/static/js/runtime-main.b6a39e4e.js",
+    "runtime-main.js.map": "/who-are-the-dev/static/js/runtime-main.b6a39e4e.js.map",
+    "static/js/2.53aef021.chunk.js": "/who-are-the-dev/static/js/2.53aef021.chunk.js",
+    "static/js/2.53aef021.chunk.js.map": "/who-are-the-dev/static/js/2.53aef021.chunk.js.map",
+    "index.html": "/who-are-the-dev/index.html",
+    "precache-manifest.c13b0f13045271d13393718cc095a519.js": "/who-are-the-dev/precache-manifest.c13b0f13045271d13393718cc095a519.js",
+    "service-worker.js": "/who-are-the-dev/service-worker.js",
+    "static/css/main.1ce69304.chunk.css.map": "/who-are-the-dev/static/css/main.1ce69304.chunk.css.map",
+    "static/js/2.53aef021.chunk.js.LICENSE.txt": "/who-are-the-dev/static/js/2.53aef021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a39e4e.js",
+    "static/js/2.53aef021.chunk.js",
+    "static/css/main.1ce69304.chunk.css",
+    "static/js/main.ef2940c6.chunk.js"
+  ]
+}
